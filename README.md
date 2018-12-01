@@ -10,5 +10,6 @@ Ferramenta que possui uma listagem de URLs e efetua um ping a cada período de t
 
 Basta adicionar suas URLs no arquivo lista.txt seguindo o padrão:
 
-NOME     | URL         | ID
+NOME     | URL         | ID                                                                                                               
+
 Google BR:google.com.br 1
