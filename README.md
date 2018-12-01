@@ -2,11 +2,11 @@
 
 Ferramenta que possui uma listagem de URLs e efetua um ping a cada período de tempo utilizando o console do equipamento windows.
 
-                                                               Preview
+                                                               #Preview
                         
                                                 https://velutinous-skew.000webhostapp.com/
 
-                                                              Utilização
+                                                             #Utilização
 
 Basta adicionar suas URLs no arquivo lista.txt seguindo o padrão:
 
