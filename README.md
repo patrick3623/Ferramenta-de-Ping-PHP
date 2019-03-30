@@ -5,7 +5,7 @@
 
 Ferramenta possui uma listagem de URLs e efetua um ping a cada período de tempo utilizando o **cmd** do equipamento.
 
-Basta adicionar suas URLs no arquivo lista.txt seguindo o padrão:
+Basta adicionar suas URLs no arquivo **lista.txt** seguindo o padrão:
 
 NOME:URL ID                                                                                                               
 
