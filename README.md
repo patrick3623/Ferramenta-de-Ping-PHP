@@ -18,3 +18,4 @@ NOME:URL ID
  - Listagem de **URLs** ou **IP** por status.
  - Ping para verificar se o host se encontra **online**.
  - Áudio que informa quando um host fica **offline**.
+ - Atualização automática.
